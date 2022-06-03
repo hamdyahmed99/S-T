@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910052306495",
+    "project_id": "sakan-talaba-c6f0f",
+    "storage_bucket": "sakan-talaba-c6f0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910052306495:android:63201791f743b188bf528a",
+        "android_client_info": {
+          "package_name": "com.example.forhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910052306495-3k6re1pajtfrl61rj2qhfiifm8pvj7ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forhome",
+            "certificate_hash": "42f016a7c350bc2c898c3bb14ff775a67238b1d2"
+          }
+        },
+        {
+          "client_id": "910052306495-gshi56u34ng21jn6e85rgl8ok9ehmffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQbc-QhAk4TaIUaMoHLe4DwdZsygJWOec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910052306495-gshi56u34ng21jn6e85rgl8ok9ehmffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "Far-From-Home-master",
+            "program": "lib\\main.dart"
+        }
+    ]
+}
